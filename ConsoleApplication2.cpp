@@ -8,6 +8,7 @@ typedef struct man {
 	 float size;
 	 char* name;
 	 man* friends [150];
+	 int weight;
 
 };
 
